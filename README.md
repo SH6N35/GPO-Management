@@ -57,4 +57,14 @@ To adhere to enterprise best practices and avoid the limitations of default Acti
 ---
 
 ## 📸 Lab Evidence
-*(Add screenshots of your Group Policy Management console showing linked GPOs and your client command prompt running `gpupdate /force` here inside an `images/` folder)*
+### Group Policy Management Console & Linked GPOs
+![Group Policy Management](<GPOs.jfif>)
+
+### Client Policy Refresh & Verification
+![Group Policy Update](<gpupdate.png>)
+
+### Domain Password Policy Configuration
+![Password Policy](<Password policy.png>)
+
+### Account Lockout Policy Configuration
+![Account Lockout Policy](<Account lockout.png>)
